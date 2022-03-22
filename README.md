@@ -10,10 +10,7 @@ Knowledge in
 #
 
 I’m currently working on.
-- Astolfo / Sunder.cc, A Private Utility Mod for Minecraft 1.12.2  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drfluffery&theme=tokyonight&repo=astolfo)](https://github.com/anuraghazra/github-readme-stats)
-
+- Astolfo / Sunder.cc, A Private Utility Mod for Minecraft 1.12.2 
 - Postman Reborn, a finished version of Postman
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drfluffery&theme=tokyonight&repo=postman-reborn)](https://github.com/anuraghazra/github-readme-stats)
