@@ -18,5 +18,4 @@ I’m currently working on.
 #
 
 ![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drfluffery&hide=javascript,css&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Fluffery's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drfluffery&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Fluffery's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drfluffery)](https://github.com/anuraghazra/github-readme-stats)
