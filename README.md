@@ -12,3 +12,7 @@ Knowledge in
 I’m currently working on.
 - Astolfo / Sunder.cc, A Private Utility Mod for Minecraft 1.12.2  
 - Postman Reborn, a finished version of Postman
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&show_icons=true)
