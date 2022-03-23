@@ -10,7 +10,7 @@ Knowledge in
 #
 
 I’m currently working on.
-- Astolfo / Sunder.cc, A Private Utility Mod for Minecraft 1.12.2 
+- Astolfo, A Private Utility Mod for Minecraft 1.12.2 
 - Postman Reborn, a finished version of Postman, a utility mod for Minecraft 
 
 
