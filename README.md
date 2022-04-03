@@ -16,8 +16,6 @@ I’m currently working on.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drfluffery&theme=tokyonight&repo=postman-reborn)](https://github.com/anuraghazra/github-readme-stats)
 
-- H**lerrHax, another private Utility Mod, built from scratch, leaks are avaible though
-
 #
 
 ![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
