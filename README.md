@@ -4,8 +4,8 @@
 #
 
 Knowledge in
-- Mostly Java, HTML, CSS, JavaScript, Kotlin, Lua
-- Minorly Python, C, C++
+- Mostly Java, HTML, CSS, JavaScript
+- Minorly Python, C, C++, Lua, Kotlin
 
 #
 
