@@ -10,7 +10,7 @@ Knowledge in
 #
 
 I’m currently working on.
-- TofuWare, A Private Utility Mod for Minecraft 1.12.2 
+- Titorware also known as Panetos, A Private Utility Mod for Minecraft 1.12.2 
 - Beach House, A Paid Utility Mod for Fabric
 - Postman Reborn, a finished version of Postman, a utility mod for Minecraft 
 
