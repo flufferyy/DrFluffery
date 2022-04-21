@@ -9,14 +9,5 @@ Knowledge in
 
 #
 
-I’m currently working on.
-- Mailman, A Private Utility Mod for Minecraft 1.12.2 using MooBase
-- Beach House, A Paid Utility Mod for Fabric
-- Postman Reborn, a finished version of Postman, a utility mod for Minecraft 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drfluffery&theme=tokyonight&repo=postman-reborn)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
 ![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
 
