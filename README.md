@@ -10,7 +10,7 @@ Knowledge in
 #
 
 I’m currently working on.
-- Titorware also known as Panetos, A Private Utility Mod for Minecraft 1.12.2 
+- Mailman, A Private Utility Mod for Minecraft 1.12.2 using MooBase
 - Beach House, A Paid Utility Mod for Fabric
 - Postman Reborn, a finished version of Postman, a utility mod for Minecraft 
 
