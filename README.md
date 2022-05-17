@@ -1,15 +1,9 @@
-### Geia sou, I'm Fluffery
+### Yo, im Fluffery
 #### I code as a hobby lmao
 
 #
 
-Knowledge in
-- Mostly Java, HTML, CSS, JavaScript, C++
-- Minorly Python, C, C#, Lua, Kotlin
-
-#
-
-![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
+Knowledge in > Java, HTML, CSS, JavaScript, C++, Python, C, C#, Lua, Kotlin
 
 <details>
   <summary><i>le footer</i></summary>
@@ -21,3 +15,4 @@ Knowledge in
   
 </details>
 
+![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
