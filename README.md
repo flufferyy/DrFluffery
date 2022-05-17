@@ -1,5 +1,5 @@
 ### Geia sou, I'm Fluffery
-#### I code shit as a hobby lmao
+#### I code as a hobby lmao
 
 #
 
@@ -10,4 +10,14 @@ Knowledge in
 #
 
 ![Fluffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=drfluffery&theme=tokyonight&count_private=true&show_icons=true)
+
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Discord* > fluffery#1001 <br/>
+   *Github* > idk <br/>
+   *Mail* > fluffery@omada.pw <br/>
+   *Site* > https://www.omada.pw <br/><br/>
+  
+</details>
 
