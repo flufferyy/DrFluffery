@@ -10,7 +10,7 @@ Knowledge in > Java, HTML, CSS, JavaScript, C++, Python, C, C#, Lua, Kotlin
   
    *Discord* > fluffery#1001 <br/>
    *Github* > idk <br/>
-   *Mail* > fluffery@omada.pw <br/>
+   *Mail* > fluffery@tutanota.de <br/>
    *Site* > https://www.omada.pw <br/><br/>
   
 </details>
