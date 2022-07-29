@@ -3,7 +3,7 @@
 
 #
 
-Knowledge in > Java, HTML, CSS, JavaScript, C++, Python, C, C#, Lua, Kotlin
+Knowledge in > Java, C++, Python, C, C#, Lua, and Kotlin
 
 <details>
   <summary><i>le footer</i></summary>
